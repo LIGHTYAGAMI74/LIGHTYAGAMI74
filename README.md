@@ -1,42 +1,161 @@
-<h1 align="center">
-  <img src="./Gemini_Generated_Image_26h0o726h0o726h0.png" alt="Mayank Yadav | CTO & Software Engineer" width="100%">
-</h1>
+# Hi 👋, I'm Mayank Yadav
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF3E3E&center=true&vCenter=true&width=600&lines=SYSTEM+STATUS%3A+CTO+DEPLOYMENT;MAYANK+YADAV+%2F%2F+LIGHTYAGAMI74;AI+AUTOMATION+ARCHITECT;FULL-STACK+ENGINEER" alt="Typing SVG" />
+  <img src="Gemini_Generated_Image_26h0o726h0o726h0./banner.png" width="100%" alt="Banner"/>
+</p>
+
+<h1 align="center">🚀 Software Engineer | AI Developer | Full Stack Developer</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Developer;Co-Founder+%26+CTO;Full+Stack+Developer;Building+Scalable+Systems;Always+Learning+🚀"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mayank247"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/LIGHTYAGAMI74"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:mayank.yadav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/LIGHTYAGAMI74"><img src="https://img.shields.io/github/followers/LIGHTYAGAMI74?style=for-the-badge"/></a>
+<img src="https://komarev.com/ghpvc/?username=LIGHTYAGAMI74&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🎭 System Profile: Mayank Yadav
+# 💫 About Me
 
-<table align="center" width="100%">
-  <tr>
-    <td width="30%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NuZ3R4d3N5M214d2x5c214d2x5c214d2x5c214&ep=v1_intemals_gif_by_id&rid=giphy.gif" width="100%" style="border-radius: 8px; border: 2px solid #FF3E3E;"/>
-      <br/><br/>
-      <code><b>CORE PROTOCOL:</b> ARCHITECTURE_OPTIMIZATION</code>
-    </td>
-    <td width="70%" valign="top">
-      <p>I am a Software Engineer and Co-Founder/CTO driven by building scalable full-stack systems, optimizing cloud infrastructure, and engineering AI-powered automation. From launching enterprise-grade AI platforms to dominating national-level hackathons, I turn complex architectural problems into clean, high-performance code.</p>
-      <ul>
-        <li>⚡ <b>Current Protocol:</b> Co-Founder & CTO at <b>Gridixa Solutions</b>, engineering workplace automation architectures.</li>
-        <li>🎓 <b>Academic Route:</b> Pursuing B.Tech in <b>Network Engineering and Security</b> at DSEU, Delhi (2024–2028).</li>
-        <li>🌌 <b>Philosophy:</b> "The human world is a boring place with boring people doing boring things." — Light Yagami 🍎</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```yaml
+Name: Mayank Yadav
+Role: Software Engineer
+Company: Co-Founder & CTO @ Gridixa Solutions
+Education: B.Tech Network Engineering & Security
+Interests:
+  - AI
+  - LLM Applications
+  - Backend Engineering
+  - Cloud
+  - System Design
+```
+
+- 🔭 Building AI products
+- 🌱 Learning Distributed Systems
+- ☁️ AWS • GCP • Docker
+- 🧠 Solved 148+ LeetCode Problems
+- ⚡ Love Full Stack Development
 
 ---
 
-## 🏆 Combat Record & Achievements
+# 🛠 Tech Stack
 
-```diff
-+ [RANK: TOP-TIER COMPETITOR]
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,nodejs,express,react,nextjs,mongodb,postgres,mysql,redis,docker,aws,gcp,linux,git,github,firebase,tailwind"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LIGHTYAGAMI74&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIGHTYAGAMI74&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=LIGHTYAGAMI74&theme=tokyonight"/>
+</p>
+
+> Current Streak: **13 Days** *(update manually if needed)*
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LIGHTYAGAMI74&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Snake Animation
+text
+Enable GitHub Action:
+Platane/snk
+Output:
+output/github-contribution-grid-snake.svg
+
+
+Then use:
+
+html
+<p align="center">
+<img src="https://raw.githubusercontent.com/LIGHTYAGAMI74/LIGHTYAGAMI74/output/github-contribution-grid-snake.svg"/>
+</p>
+
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=LIGHTYAGAMI74&theme=tokyonight&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+# 💻 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Olympiad | AI competition platform |
+| 🌍 Disaster Shield | Disaster management platform |
+| 🛒 E-Commerce Platform | Production-ready store |
+
+---
+
+# 🧠 LeetCode
+
+- ✅ Problems Solved: **148+**
+- 🎯 Goal: 500+
+
+Replace with your username:
+
+
+https://leetcard.jacoblin.cool/dragonxp?theme=dark
+
+
+---
+
+# 🚀 Experience
+
+- 🚀 Co-Founder & CTO — Gridixa Solutions
+- 💻 Software Developer — The Green Mind NGO
+- ⚙️ Backend Developer Intern — Planning Center
+
+---
+
+# 🏅 Achievements
+
+- 🥇 National Hackathon Qualifier (IIT BHU)
+- 🥇 Three-time Gold Medalist (Mathematics & Science Olympiads)
+- ☁️ Built scalable AI systems
+- 👨‍💻 Full Stack Engineer
+
+---
+
+# 🌐 Connect
+
+- GitHub: https://github.com/LIGHTYAGAMI74
+- LinkedIn: https://linkedin.com/in/mayank247
+
+---
+
+# 💬 Dev Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+# 🌊 Footer
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=120&section=footer"/>
+</p>
