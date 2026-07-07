@@ -1,119 +1,64 @@
-<div align="center">
+# Hi there, I'm Mayank Yadav 👋 🚀
 
-<!-- Anime-themed Header Banner (Using a clean, dark aesthetic placeholder) -->
-<img src="https://capsule-render.vercel.app/view?type=waving&color=1a1a2e&height=250&section=header&text=MAYANK%20YADAV&fontSize=50&fontColor=e94560&animation=twinkling" width="100%" alt="Header Banner" />
+### Co-Founder & CTO | Full-Stack Software Engineer | Al Automation Architect
 
-# ⚡ SOFTWARE ENGINEER // CO-FOUNDER & CTO ⚡
-**"The human whose name is written in this code... shall build incredible systems."**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank247)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayank.yadav@gmail.com)
+I am a Software Engineer and Co-Founder/CTO driven by building scalable full-stack systems, optimizing cloud infrastructure, and engineering AI-powered automation. From launching enterprise-grade AI platforms to ranking in national-level hackathons, I love turning complex architectural problems into clean, high-performance code.
 
 ---
+
+### 💫 About Me
+
+- 🛠️ **Current Role:** Co-Founder & CTO at **Gridixa Solutions**, engineering the future of workplace automation and AI learning platforms.
+- 🎓 **Education:** Pursuing a B.Tech in **Network Engineering and Security** at DSEU, Delhi (2024–2028).
+- 🏆 **Achievements:** National Hackathon Qualifier at **IIT BHU** & 3x Gold Medalist in Mathematics & Science Olympiads.
+- ⚡ **Focus Areas:** Scalable Microservices, AI/LLM Integration, Cloud DevOps, and High-Availability Systems.
+
+---
+
+### 🛡️ Tech Stack & Ecosystem
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `JavaScript` `TypeScript` `Java` `C++` `SQL` `Bash` |
+| **Backend & APIs** | `Node.js` `Express.js` `REST APIs` `GraphQL` `Microservices` |
+| **Frontend & UI** | `React` `Next.js` `Tailwind CSS` |
+| **Cloud & DevOps** | `AWS` `GCP` `Docker` `CI/CD Pipelines` `GitHub Actions` `Linux` |
+| **Databases** | `PostgreSQL` `MySQL` `MongoDB` `Redis` |
+| **Core Concepts** | `Data Structures & Algorithms` `System Design` `OOP` `Network Security` |
+
+---
+
+### 🚀 Highlighted Impact & Projects
+
+📂 **[AI Olympiad Platform](https://ai.gridixa.in)**
+> Built a distributed AI competition platform leveraging LLM APIs and an AWS backend capable of handling **1,000+ concurrent scoring requests** while completely automating competition content workflows.
+
+📂 **[Disaster Shield](https://github.com/LIGHTYAGAMI74/DisasterShield)**
+> Developed a real-time disaster management dashboard featuring live emergency alerts and multi-region resource mapping. **Reduced emergency broadcast times by 60%** using Google Maps geolocation targeting.
+
+📂 **[Baani — Workplace Automation](https://github.com/LIGHTYAGAMI74)** *(via Gridixa Solutions)*
+> Engineered an LLM-powered workplace automation ecosystem deployed across enterprise pilot teams, **slashing manual processing times by 50%**.
+
+📂 **[Glitter Queen E-Commerce](https://glitterqueen.shop)**
+> Shipped a production-grade e-commerce application with full Stripe payment integration, featuring **Docker-based CI/CD pipelines** for zero-downtime releases.
+
+---
+
+### 📊 GitHub Metrics & Activity
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Vxd3d5Nm14M2J1ZnRtZW15b2R4cHhkam95cDd1MXA4cWpxc3B5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8n8f668W4c4x1pE0fG/giphy.gif" width="120" alt="Anime Coding Gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LIGHTYAGAMI74&show_icons=true&theme=tokyonight&count_private=true" alt="Mayank's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LIGHTYAGAMI74&theme=tokyonight" alt="Mayank's GitHub Streak" height="180px"/>
 </p>
 
-> Full-stack engineer and startup leader architecting high-availability, AI-powered automation systems. Scaling platforms to 500+ concurrent users at 99.9% uptime while keeping code clean, modular, and optimized. 
-
-</div>
-
-## 🌐 Overview
-* 🛠️ **Current Role:** Co-Founder & CTO at **Gridixa Solutions** 
-* 🏆 **Achievements:** National Hackathon Qualifier at **IIT BHU** | 3x Gold Medalist in Math & Science Olympiads
-* 🎓 **Education:** B.Tech in Network Engineering & Security (2024 - 2028)
-* 🚀 **Core Focus:** Distributed Systems, LLM Orchestration, Cloud Architecture, and DevOps Pipelines
-
 ---
 
-## 🛠️ The Tech Stack
+### 🤝 Connect with Me
 
-<table align="center">
-  <tr>
-    <td align="center" width="20%"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend / APIs</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=statuspage&logoColor=white" />
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microservices-4F5D95?style=flat-square&logo=architecture&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Cloud & DevOps</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/CI/CD-CD2C5C?style=flat-square&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-</table>
+- 💼 **LinkedIn:** [linkedin.com/in/mayank247](https://linkedin.com/in/mayank247)
+- 📧 **Email:** [mayank.yadav@gmail.com](mailto:mayank.yadav@gmail.com)
+- 🌐 **Company:** [Gridixa Solutions](https://ai.gridixa.in)
 
----
-
-## 🚀 Key Shipments & Projects
-
-### 🌟 [AI Olympiad Platform](https://ai.gridixa.in)
-* **Stack:** Python, LLM APIs, AWS, React
-* Architected a distributed AWS backend handling **1,000+ concurrent scoring requests**.
-* Automated competition content workflows, wiping out manual environment generation setup time entirely.
-
-### 🛡️ [Disaster Shield](https://github.com/LIGHTYAGAMI74/DisasterShield)
-* **Stack:** Node.js, React, Firebase, Google Maps API
-* Engineered a real-time crisis management app featuring targeted regional emergency broadcasts.
-* Leveraged geolocation mapping to **cut emergency broadcast times by 60%**.
-
-### 🛍️ [E-Commerce Platform](https://glitterqueen.shop)
-* **Stack:** Node.js, Stripe, Docker, CI/CD Pipelines
-* Built a production-grade retail catalog platform with secure checkout pipelines.
-* Configured automated Docker containers to maintain **zero-downtime deployments**.
-
----
-
-## 📈 Stats & Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=LIGHTYAGAMI74&show_icons=true&theme=tokyonight&count_private=true" alt="Mayank's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIGHTYAGAMI74&layout=compact&theme=tokyonight" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LIGHTYAGAMI74&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <i>"I'll take a potato chip... and code it!" 🎮 Let's connect and build something impactful.</i>
-</div>
+<p align="center">
+  <sub>Built with 💻, ☕, and clean architecture.</sub>
+</p>
