@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mayank Yadav
 
 <p align="center">
-  <img src="Gemini_Generated_Image_26h0o726h0o726h0./banner.png" width="100%" alt="Banner"/>
+  <img src="./Gemini_Generated_Image_26h0o726h0o726h0.png" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">🚀 Software Engineer | AI Developer | Full Stack Developer</h1>
@@ -76,20 +76,21 @@ Interests:
 ---
 
 # 🐍 Snake Animation
-text
+
+```text
 Enable GitHub Action:
 Platane/snk
 Output:
 output/github-contribution-grid-snake.svg
-
+```
 
 Then use:
 
-html
+```html
 <p align="center">
 <img src="https://raw.githubusercontent.com/LIGHTYAGAMI74/LIGHTYAGAMI74/output/github-contribution-grid-snake.svg"/>
 </p>
-
+```
 
 ---
 
@@ -118,9 +119,9 @@ html
 
 Replace with your username:
 
-
-https://leetcard.jacoblin.cool/dragonxp?theme=dark
-
+```
+https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark
+```
 
 ---
 
