@@ -75,33 +75,6 @@ Interests:
 
 ---
 
-# 🐍 Snake Animation
-
-```text
-Enable GitHub Action:
-Platane/snk
-Output:
-output/github-contribution-grid-snake.svg
-```
-
-Then use:
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/LIGHTYAGAMI74/LIGHTYAGAMI74/output/github-contribution-grid-snake.svg"/>
-</p>
-```
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LIGHTYAGAMI74&theme=tokyonight&margin-w=10&margin-h=10"/>
-</p>
-
----
-
 # 💻 Featured Projects
 
 | Project | Description |
@@ -114,14 +87,12 @@ Then use:
 
 # 🧠 LeetCode
 
-- ✅ Problems Solved: **148+**
+
+- ✅ Problems Solved: **36+**
 - 🎯 Goal: 500+
 
-Replace with your username:
 
-```
-https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark
-```
+<img src="https://leetcard.jacoblin.cool/dragonxp?theme=dark"/>
 
 ---
 
